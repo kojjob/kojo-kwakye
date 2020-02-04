@@ -1,2 +1,0 @@
-# kojo-kwakye
-Begin app
