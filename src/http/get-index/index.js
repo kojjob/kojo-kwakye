@@ -7,19 +7,19 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
+    fullname: 'Kojo Kwakye', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    occupation: 'Software Engineer',
+    location: 'West Yorshire, Leeds',
+    bio: "Hi! I'm Kojo, a Leeds-based Software Developer. I love the idea, that if I can think it, I can make it a reality and also creating something, to make a difference in peoples’ lives.",
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
     email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
+    twitter: 'https://twitter.com/Kojjob',
+    linkedin: 'https://www.linkedin.com/in/kojo-kwakye-2ba57011b/',
     instagram: 'yourInsta',
     facebook: 'your-facebook-name',
 
